@@ -9,7 +9,7 @@ numpy==1.19.5
 tensorflow==2.7.0
 
 "Objective:
-This project focuses on the application of Autoencoders in Deep Learning, particularly for learning compressed representations of data. Autoencoders consist of two main components: an Encoder and a Decoder. This project aims to provide a comprehensive understanding of Autoencoders and their architectural design. The primary objective is to develop a deep learning model using Autoencoders, specifically tailored for Anomaly Detection. Furthermore, the model will be deployed using Flask, a popular web framework. This project is part of a larger series dedicated to exploring various aspects of Deep Learning. For those interested in previous projects in this series, further information is available."
+This project focuses on the application of Autoencoders in Deep Learning, particularly for learning compressed representations of data. Autoencoders consist of two main components: an Encoder and a Decoder. This project aims to provide a comprehensive understanding of Autoencoders and their architectural design. The primary objective is to develop a deep learning model using Autoencoders, specifically tailored for Anomaly Detection. Furthermore, the model will be deployed using Flask, a popular web framework. This project is part of a larger series dedicated to exploring various aspects of Deep Learning."
 
 Aim :
 ● To understand the theory behind Autoencoders
